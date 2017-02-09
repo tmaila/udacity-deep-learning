@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*.pyc
+__pycache__
+.DS_Store
+/bin
+/include
+/lib
+/lib64
+/local
+/share
+pip-selfcheck.json
